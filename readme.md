@@ -19,7 +19,7 @@ $ npm install --save shanghai-cuisine
 const shanghaiCuisine = require('shanghai-cuisine');
 
 shanghaiCuisine;
-//=> ["红烧鱼", "春秋两季吃甲鱼", "七宝白切羊肉",...]
+//=> ["红烧鱼", "甲鱼", "七宝白切羊肉",...]
 ```
 
 
